@@ -4,8 +4,13 @@
   "description": "You Tube Clone",
   "main": "index.js",
   "scripts": {
-    "test": "javascript "
+    "test": "javascript ",
+    "dev" :"nodemon src/index.js "
+
   },
   "author": "Harsh",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
