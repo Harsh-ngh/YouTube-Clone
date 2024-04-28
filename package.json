@@ -1,0 +1,11 @@
+{
+  "name": "utube",
+  "version": "1.0.0",
+  "description": "You Tube Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript "
+  },
+  "author": "Harsh",
+  "license": "ISC"
+}
